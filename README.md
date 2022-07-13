@@ -20,3 +20,7 @@ test/spec folder: Folder where all tests are stored.
 test/pageobjects folder: Folder where all page object classes are stored.  
 test/testdata: Folder where test data files are stored.  
 wdio.conf.js: Configuration file for project -- contains data reports available, drivers available and also hooks.
+
+*******************************
+
+For more info on WebdriverIO, see https://webdriver.io/docs/gettingstarted

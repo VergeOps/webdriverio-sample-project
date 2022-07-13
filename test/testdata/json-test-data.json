@@ -1,0 +1,13 @@
+[ 
+    {
+      "username": "tomsmith",
+      "password": "xxx",
+      "expectedError": "Your password is invalid!"
+    },
+
+    {
+      "username": "bob",
+      "password": "xxxxxxx",
+      "expectedError": "Your username is invalidx"
+    }
+  ]
